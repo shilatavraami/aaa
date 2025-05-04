@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "V:\\ו תכנות\\תלמידות\\אברהמי שילתושששש\\C#++\\aaa\\CodeFirst\\CodeFirst.csproj": {}
+    "V:\\ו תכנות\\תלמידות\\הבוכריתתתת\\github\\ccc\\aaa\\CodeFirst\\CodeFirst.csproj": {}
   },
   "projects": {
-    "V:\\ו תכנות\\תלמידות\\אברהמי שילתושששש\\C#++\\aaa\\CodeFirst\\CodeFirst.csproj": {
+    "V:\\ו תכנות\\תלמידות\\הבוכריתתתת\\github\\ccc\\aaa\\CodeFirst\\CodeFirst.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "V:\\ו תכנות\\תלמידות\\אברהמי שילתושששש\\C#++\\aaa\\CodeFirst\\CodeFirst.csproj",
+        "projectUniqueName": "V:\\ו תכנות\\תלמידות\\הבוכריתתתת\\github\\ccc\\aaa\\CodeFirst\\CodeFirst.csproj",
         "projectName": "CodeFirst",
-        "projectPath": "V:\\ו תכנות\\תלמידות\\אברהמי שילתושששש\\C#++\\aaa\\CodeFirst\\CodeFirst.csproj",
+        "projectPath": "V:\\ו תכנות\\תלמידות\\הבוכריתתתת\\github\\ccc\\aaa\\CodeFirst\\CodeFirst.csproj",
         "packagesPath": "C:\\Users\\סירוקה\\.nuget\\packages\\",
-        "outputPath": "V:\\ו תכנות\\תלמידות\\אברהמי שילתושששש\\C#++\\aaa\\CodeFirst\\obj\\",
+        "outputPath": "V:\\ו תכנות\\תלמידות\\הבוכריתתתת\\github\\ccc\\aaa\\CodeFirst\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
